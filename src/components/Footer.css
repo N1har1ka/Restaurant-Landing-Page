@@ -1,0 +1,33 @@
+.footerDiv{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 350px;
+    position: relative;
+    top: 1000px;
+    padding: 20px;
+}
+.ftdv h2{
+    color: #00ADB5;
+    margin: 7px;
+    letter-spacing: 2px;
+}
+.ftdv p{
+    display: flex;
+    font-size: 28px;
+    gap: 20px;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    padding: 5px;
+}
+.ftdv2{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+.ftdv2 li{
+    color: rgb(39, 108, 109);
+    list-style: none;
+    font-size: 17px;
+    font-weight: 500;
+}

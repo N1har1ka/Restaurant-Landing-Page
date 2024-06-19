@@ -1,0 +1,38 @@
+.contain{
+    padding-top: 20px;
+}
+.flex{
+   display: flex;
+}
+.flex-container{
+    justify-content: space-between;
+    
+}
+.flex-ul{
+    justify-content: space-evenly;
+    gap: 40px;
+    padding-top: 10px;
+    margin: 7px;
+    list-style-type: none;
+    font-size: 15px;
+    font-weight: 700;
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.navbar-h2{
+    color: #00ADB5;
+    margin: 7px;
+    letter-spacing: 2px;
+}
+.container-btn{
+    width: 150px;
+    height: 50px;
+    margin-top: -15px;
+    background-color: white;
+    border: 10px solid white;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+
+}

@@ -1,0 +1,87 @@
+.img-container{
+    float: right;
+    padding-top: 0px;
+    /* background-color: red;  */
+    position: relative;
+    bottom: 50px;
+    padding-right: 20px;
+}
+.img1{
+    width:650px;
+    height:600px;
+} 
+.main-container{
+    padding-top: 80px;
+}
+.text-container{
+    width: 400px;
+    height: 100px;
+    padding-top: 60px;
+}
+.main-text1{
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: rgb(55, 64, 64);
+}
+.main-text2{
+    font-size: 20px;
+    font-weight: 500;
+    color:rgb(86, 85, 83) ;
+}
+.main-contain-btn{
+    background-color: rgb(248, 140, 8);
+    border: 10px solid rgb(248, 140, 8);
+    border-radius: 30px;
+    width: 200px;
+    word-spacing: 3px;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+.contain{
+    flex-direction: column;
+}
+.container-img{
+    float: left;
+    padding-top: 0px;
+    /* background-color: red;  */
+    position: relative;
+    bottom: 50px;
+    padding-right: 20px;
+    top: 150px;
+}
+.img2{
+    width:650px;
+    height:600px;
+}
+.text-contain{
+    position: relative;
+    top: 100px;
+}
+.abt{
+    font-size: 15px;
+    font-weight: 600;
+    color: rgb(248, 140, 8);
+}
+.txt{
+    font-size: 50px;
+    font-weight: 700;
+}
+.mainabt{
+    position: relative;
+    top: 20px;
+    flex-direction: column;
+    gap: 20px;
+}
+.abtfoot{
+    gap: 30px;
+}
+.abtfootp{
+    width: 200px;
+    word-spacing: 3px;
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+    top:10px;
+}
